@@ -5,3 +5,4 @@ This is my cloud computing flask boilerplate for creating restful API's
 - Change dir to  ```cd /Flask-Microservices-Boilerplate```
 - RUN ```pip install requirements.txt```
 - Good to Go..
+- Add `.gitignore` file according to your prefrences.
